@@ -1,0 +1,6 @@
+.vertical-line {
+    width: 2px; /* Line thickness */
+    height: 100px; /* Line height */
+    background-color: black; /* Line color */
+    margin: 0 auto; /* Center the line */
+}
